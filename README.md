@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somethingololo
-- 👀 I’m interested in webdev and fintech
+- 👀 I’m interested in webdev and gamedev
 - 🌱 I’m currently a university student studying Computer Science
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: evabogomil@gmail.com
