@@ -2,7 +2,6 @@
 - 👀 I’m interested in webdev and gamedev
 - 🌱 Working as a Software engineer
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me: evabogomil@gmail.com
 
 <!---
 somethingololo/somethingololo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
